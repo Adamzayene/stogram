@@ -1,0 +1,2 @@
+# stogram
+batch script 
